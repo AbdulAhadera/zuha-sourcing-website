@@ -1,6 +1,29 @@
+import { useRef, useState } from "react";
+import emailjs from "@emailjs/browser";
+
 const ContactPage = () => {
-  const handleSubmit = (e) => {
+  const formRef = useRef(null);
+  const [status, setStatus] = useState("idle"); // idle | sending | success | error
+
+
+  
+  const handleSubmit = async (e) => {
     e.preventDefault();
+    setStatus("sending");
+
+    try {
+      await emailjs.sendForm(
+        import.meta.env.VITE_EMAILJS_SERVICE_ID,
+        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+        formRef.current,
+        { publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY }
+      );
+      setStatus("success");
+      formRef.current.reset();
+    } catch (error) {
+      console.error("EmailJS error:", error);
+      setStatus("error");
+    }
   };
 
   return (
@@ -109,7 +132,11 @@ const ContactPage = () => {
                 Fill out the form below and our team will get back to you.
               </p>
 
-              <form onSubmit={handleSubmit} className="mt-8 space-y-6">
+              <form
+                ref={formRef}
+                onSubmit={handleSubmit}
+                className="mt-8 space-y-6"
+              >
                 {/* Name */}
                 <div>
                   <label
@@ -122,7 +149,7 @@ const ContactPage = () => {
                   <input
                     id="name"
                     type="text"
-                    name="name"
+                    name="from_name"
                     placeholder="Your name"
                     required
                     className="w-full border border-border-light bg-white px-4 py-4 text-[16px] text-text-primary outline-none transition-colors duration-300 placeholder:text-text-muted focus:border-accent"
@@ -141,7 +168,7 @@ const ContactPage = () => {
                   <input
                     id="email"
                     type="email"
-                    name="email"
+                    name="from_email"
                     placeholder="Your email address"
                     required
                     className="w-full border border-border-light bg-white px-4 py-4 text-[16px] text-text-primary outline-none transition-colors duration-300 placeholder:text-text-muted focus:border-accent"
@@ -186,13 +213,29 @@ const ContactPage = () => {
                   />
                 </div>
 
+                {/* Status Messages */}
+                {status === "success" && (
+                  <p className="border-l-2 border-green-600 bg-green-50 px-4 py-3 text-[15px] text-green-800">
+                    Thank you! Your message has been sent. We'll get back to
+                    you soon.
+                  </p>
+                )}
+
+                {status === "error" && (
+                  <p className="border-l-2 border-red-600 bg-red-50 px-4 py-3 text-[15px] text-red-800">
+                    Something went wrong. Please try again or email us
+                    directly at takhlique@zuhasourcing.com.
+                  </p>
+                )}
+
                 {/* Submit */}
                 <button
                   type="submit"
-                  className="inline-flex items-center gap-3 bg-primary px-8 py-4 text-[13px] font-bold uppercase tracking-[0.13em] text-white transition-colors duration-300 hover:bg-accent"
+                  disabled={status === "sending"}
+                  className="inline-flex items-center gap-3 bg-primary px-8 py-4 text-[13px] font-bold uppercase tracking-[0.13em] text-white transition-colors duration-300 hover:bg-accent disabled:cursor-not-allowed disabled:opacity-60"
                 >
-                  Send Message
-                  <span className="text-lg">→</span>
+                  {status === "sending" ? "Sending..." : "Send Message"}
+                  {status !== "sending" && <span className="text-lg">→</span>}
                 </button>
               </form>
             </div>

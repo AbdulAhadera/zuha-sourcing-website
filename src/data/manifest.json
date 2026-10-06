@@ -1,0 +1,2420 @@
+{
+  "brand": "Zuha Sourcing",
+  "sku_pattern": "ZHS-{PNT|KID|JKT}-{NNN}",
+  "image_pattern": "{sku}_{view}.{ext}",
+  "views": [
+    "front",
+    "back",
+    "main",
+    "set"
+  ],
+  "notes": [
+    "audience comes from the old file name only (ladies/mens) and is null when the old name did not say.",
+    "SKU numbers are just a running count per category and carry no meaning."
+  ],
+  "product_count": 108,
+  "products": [
+    {
+      "sku": "ZHS-PNT-001",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "1",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-001_front.png",
+          "original_name": "1 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2865628
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-001_back.png",
+          "original_name": "1 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2439542
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-002",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "2",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-002_front.png",
+          "original_name": "2 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 3772371
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-002_back.png",
+          "original_name": "2 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 3822172
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-003",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "3",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-003_front.png",
+          "original_name": "3 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2024899
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-003_back.png",
+          "original_name": "3 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2112998
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-004",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "4",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-004_front.png",
+          "original_name": "4 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2719846
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-004_back.png",
+          "original_name": "4 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2679186
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-005",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "5",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-005_front.png",
+          "original_name": "5 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 3485097
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-005_back.png",
+          "original_name": "5 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 3494531
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-006",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "6",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-006_front.png",
+          "original_name": "6 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2911822
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-006_back.png",
+          "original_name": "6 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 3419988
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-007",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "7",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-007_front.png",
+          "original_name": "7 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2467181
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-007_back.png",
+          "original_name": "7 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2217332
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-008",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "8",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-008_front.png",
+          "original_name": "8 (2).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 2838784
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-008_back.png",
+          "original_name": "8 (1).png",
+          "width": 1571,
+          "height": 2000,
+          "bytes": 1082091
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-009",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "a",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-009_front.jpeg",
+          "original_name": "a (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 319150
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-009_back.jpeg",
+          "original_name": "a (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 213652
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-010",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "b",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-010_front.jpeg",
+          "original_name": "b (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 173313
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-010_back.jpeg",
+          "original_name": "b (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 208675
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-011",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "d",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-011_front.jpeg",
+          "original_name": "d (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 289827
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-011_back.jpeg",
+          "original_name": "d (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 264959
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-012",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "e",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-012_front.jpeg",
+          "original_name": "e (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 237452
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-012_back.jpeg",
+          "original_name": "e (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 268093
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-013",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "f",
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-013_front.jpeg",
+          "original_name": "f (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 335659
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-013_back.jpeg",
+          "original_name": "f (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 280683
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-014",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1601",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-014_main.jpg",
+          "original_name": "MN 1601.jpg",
+          "width": 765,
+          "height": 559,
+          "bytes": 60806
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-015",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1602",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-015_main.jpg",
+          "original_name": "MN 1602.jpg",
+          "width": 787,
+          "height": 577,
+          "bytes": 69478
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-016",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1603",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-016_main.jpg",
+          "original_name": "MN 1603.jpg",
+          "width": 795,
+          "height": 564,
+          "bytes": 74542
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-017",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1604",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-017_main.jpg",
+          "original_name": "MN 1604.jpg",
+          "width": 765,
+          "height": 575,
+          "bytes": 64410
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-018",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1605",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-018_main.jpg",
+          "original_name": "MN 1605.jpg",
+          "width": 799,
+          "height": 543,
+          "bytes": 51815
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-019",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1606",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-019_main.jpg",
+          "original_name": "MN 1606.jpg",
+          "width": 554,
+          "height": 436,
+          "bytes": 42028
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-020",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1607",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-020_main.jpg",
+          "original_name": "MN 1607.jpg",
+          "width": 834,
+          "height": 544,
+          "bytes": 45552
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-021",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1608",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-021_main.jpg",
+          "original_name": "mn 1608.jpg",
+          "width": 576,
+          "height": 390,
+          "bytes": 39761
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-022",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1609",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-022_main.jpg",
+          "original_name": "MN 1609.jpg",
+          "width": 825,
+          "height": 549,
+          "bytes": 52999
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-023",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1610",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-023_main.jpg",
+          "original_name": "MN 1610.jpg",
+          "width": 724,
+          "height": 575,
+          "bytes": 69485
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-024",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1611",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-024_main.jpg",
+          "original_name": "MN 1611.jpg",
+          "width": 660,
+          "height": 571,
+          "bytes": 76011
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-025",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1612",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-025_main.jpg",
+          "original_name": "MN 1612.jpg",
+          "width": 684,
+          "height": 558,
+          "bytes": 79451
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-026",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1613",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-026_main.jpg",
+          "original_name": "MN 1613.jpg",
+          "width": 647,
+          "height": 577,
+          "bytes": 49140
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-027",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1614",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-027_main.jpg",
+          "original_name": "MN 1614.jpg",
+          "width": 840,
+          "height": 577,
+          "bytes": 58501
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-028",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1615",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-028_main.png",
+          "original_name": "MN 1615.png",
+          "width": 621,
+          "height": 558,
+          "bytes": 568553
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-029",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1617",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-029_main.png",
+          "original_name": "MN 1617.png",
+          "width": 592,
+          "height": 579,
+          "bytes": 504004
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-030",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1618",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-030_main.png",
+          "original_name": "MN 1618.png",
+          "width": 642,
+          "height": 553,
+          "bytes": 460130
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-031",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1619",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-031_main.png",
+          "original_name": "MN 1619.png",
+          "width": 675,
+          "height": 554,
+          "bytes": 568896
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-032",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1620",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-032_main.jpg",
+          "original_name": "MN 1620.jpg",
+          "width": 844,
+          "height": 534,
+          "bytes": 50260
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-033",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1621",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-033_main.png",
+          "original_name": "MN 1621.png",
+          "width": 643,
+          "height": 563,
+          "bytes": 435596
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-034",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 1624",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-pants/ZHS-PNT-034_front.jpg",
+          "original_name": "MN 1624 FRONT.jpg",
+          "width": 385,
+          "height": 558,
+          "bytes": 40964
+        },
+        {
+          "view": "back",
+          "file": "denim-pants/ZHS-PNT-034_back.jpg",
+          "original_name": "MN 1624 BACK.jpg",
+          "width": 401,
+          "height": 559,
+          "bytes": 39017
+        },
+        {
+          "view": "set",
+          "file": "denim-pants/ZHS-PNT-034_set.png",
+          "original_name": "MN 1624 SET.png",
+          "width": 560,
+          "height": 424,
+          "bytes": 442202
+        }
+      ],
+      "duplicate_images": [],
+      "note": "MN 1624 is a pants+jacket set; the same set photo exists in both denim-pants and denim-jackets."
+    },
+    {
+      "sku": "ZHS-PNT-035",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3312",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-035_main.jpg",
+          "original_name": "MN 3312.jpg",
+          "width": 302,
+          "height": 510,
+          "bytes": 25227
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-036",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3313",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-036_main.jpg",
+          "original_name": "MN 3313.jpg",
+          "width": 282,
+          "height": 521,
+          "bytes": 28016
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-037",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3314",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-037_main.png",
+          "original_name": "MN 3314.png",
+          "width": 300,
+          "height": 505,
+          "bytes": 250511
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-038",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3315",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-038_main.jpg",
+          "original_name": "MN 3315.jpg",
+          "width": 320,
+          "height": 520,
+          "bytes": 14232
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-039",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3316",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-039_main.jpg",
+          "original_name": "MN 3316.jpg",
+          "width": 289,
+          "height": 538,
+          "bytes": 22100
+        }
+      ],
+      "duplicate_images": [
+        {
+          "original_name": "MN 3331.jpg",
+          "file": "_duplicates/denim-pants/ZHS-PNT-039_main_dup.jpg",
+          "duplicate_of": "denim-pants/ZHS-PNT-039_main.jpg"
+        }
+      ],
+      "note": "Exact duplicate image(s) found; extra copy moved to _duplicates/."
+    },
+    {
+      "sku": "ZHS-PNT-040",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3317",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-040_main.jpg",
+          "original_name": "MN 3317.jpg",
+          "width": 330,
+          "height": 549,
+          "bytes": 26673
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-041",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3318",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-041_main.jpg",
+          "original_name": "MN 3318.jpg",
+          "width": 360,
+          "height": 549,
+          "bytes": 27083
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-042",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3319",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-042_main.jpg",
+          "original_name": "MN 3319.jpg",
+          "width": 325,
+          "height": 557,
+          "bytes": 27447
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-043",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3320",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-043_main.jpg",
+          "original_name": "MN 3320.jpg",
+          "width": 329,
+          "height": 551,
+          "bytes": 24138
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-044",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3321",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-044_main.jpg",
+          "original_name": "MN 3321.jpg",
+          "width": 279,
+          "height": 573,
+          "bytes": 26161
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-045",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3322",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-045_main.jpg",
+          "original_name": "MN 3322.jpg",
+          "width": 330,
+          "height": 563,
+          "bytes": 23658
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-046",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3323",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-046_main.jpg",
+          "original_name": "MN 3323.jpg",
+          "width": 284,
+          "height": 592,
+          "bytes": 25947
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-047",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3324",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-047_main.jpg",
+          "original_name": "MN 3324.jpg",
+          "width": 348,
+          "height": 586,
+          "bytes": 28039
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-048",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3325",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-048_main.jpg",
+          "original_name": "MN 3325.jpg",
+          "width": 320,
+          "height": 531,
+          "bytes": 35179
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-049",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3326",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-049_main.jpg",
+          "original_name": "MN 3326.jpg",
+          "width": 305,
+          "height": 534,
+          "bytes": 42771
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-050",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3327",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-050_main.png",
+          "original_name": "MN 3327.png",
+          "width": 377,
+          "height": 670,
+          "bytes": 254756
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-051",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3328",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-051_main.png",
+          "original_name": "MN 3328.png",
+          "width": 416,
+          "height": 647,
+          "bytes": 248750
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-052",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3329",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-052_main.jpg",
+          "original_name": "MN 3329.jpg",
+          "width": 334,
+          "height": 536,
+          "bytes": 33006
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-053",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3330",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-053_main.jpg",
+          "original_name": "MN 3330.jpg",
+          "width": 349,
+          "height": 519,
+          "bytes": 34695
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-054",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3332",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-054_main.jpg",
+          "original_name": "MN 3332.jpg",
+          "width": 310,
+          "height": 528,
+          "bytes": 27773
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-055",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": "MN 3333",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-055_main.jpg",
+          "original_name": "MN 3333.jpg",
+          "width": 300,
+          "height": 524,
+          "bytes": 24799
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-056",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies baggy",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-056_main.png",
+          "original_name": "ladies baggy.png",
+          "width": 454,
+          "height": 601,
+          "bytes": 300374
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-057",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies bermuda",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-057_main.png",
+          "original_name": "ladies bermuda.png",
+          "width": 554,
+          "height": 739,
+          "bytes": 254472
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-058",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies pants",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-058_main.png",
+          "original_name": "ladies pants.png",
+          "width": 374,
+          "height": 612,
+          "bytes": 412263
+        }
+      ],
+      "duplicate_images": [
+        {
+          "original_name": "ladies-pants.png",
+          "file": "_duplicates/denim-pants/ZHS-PNT-058_main_dup.png",
+          "duplicate_of": "denim-pants/ZHS-PNT-058_main.png"
+        }
+      ],
+      "note": "Exact duplicate image(s) found; extra copy moved to _duplicates/."
+    },
+    {
+      "sku": "ZHS-PNT-059",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies tinted",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-059_main.png",
+          "original_name": "ladies tinted.png",
+          "width": 488,
+          "height": 703,
+          "bytes": 290037
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-060",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies widebasic",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-060_main.png",
+          "original_name": "ladies widebasic.png",
+          "width": 311,
+          "height": 644,
+          "bytes": 355194
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-061",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies-cargo",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-061_main.png",
+          "original_name": "ladies-cargo.png",
+          "width": 507,
+          "height": 698,
+          "bytes": 258008
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-062",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies-pant",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-062_main.png",
+          "original_name": "ladies-pant.png",
+          "width": 405,
+          "height": 577,
+          "bytes": 256362
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-063",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies-shorts",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-063_main.png",
+          "original_name": "ladies-shorts.png",
+          "width": 759,
+          "height": 385,
+          "bytes": 582075
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-064",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies-studs",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-064_main.png",
+          "original_name": "ladies-studs.png",
+          "width": 447,
+          "height": 640,
+          "bytes": 249262
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-065",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "ladies-turnup bottm",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-065_main.png",
+          "original_name": "ladies-turnup bottm.png",
+          "width": 371,
+          "height": 591,
+          "bytes": 217749
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-066",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "mens-cargo",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-066_main.png",
+          "original_name": "mens-cargo.png",
+          "width": 406,
+          "height": 611,
+          "bytes": 258621
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-067",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "menschino",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-067_main.png",
+          "original_name": "menschino.png",
+          "width": 365,
+          "height": 571,
+          "bytes": 157800
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-068",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "mensfyed",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-068_main.png",
+          "original_name": "mensfyed.png",
+          "width": 434,
+          "height": 600,
+          "bytes": 320905
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-069",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "menstwill",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-069_main.png",
+          "original_name": "menstwill.png",
+          "width": 411,
+          "height": 597,
+          "bytes": 507763
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-PNT-070",
+      "category": "PNT",
+      "source_folder": "denim-pants",
+      "legacy_code": null,
+      "legacy_label": "wideleg-ladies",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-pants/ZHS-PNT-070_main.png",
+          "original_name": "wideleg-ladies.png",
+          "width": 333,
+          "height": 599,
+          "bytes": 369912
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-001",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "c",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-001_front.jpeg",
+          "original_name": "c (2).jpeg",
+          "width": 1394,
+          "height": 1600,
+          "bytes": 207784
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-001_back.jpeg",
+          "original_name": "c (1).jpeg",
+          "width": 1526,
+          "height": 1600,
+          "bytes": 297667
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-002",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "g",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-002_front.jpeg",
+          "original_name": "g (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 227866
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-002_back.jpeg",
+          "original_name": "g (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 260507
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-003",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "h",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-003_front.jpeg",
+          "original_name": "h (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 228316
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-003_back.jpeg",
+          "original_name": "h (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 228063
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-004",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "i",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-004_front.jpeg",
+          "original_name": "i (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 231541
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-004_back.jpeg",
+          "original_name": "i (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 257290
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-005",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "j",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-005_front.jpeg",
+          "original_name": "j (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 118398
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-005_back.jpeg",
+          "original_name": "j (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 110290
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-006",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "k",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-006_front.jpeg",
+          "original_name": "k (2).jpeg",
+          "width": 1564,
+          "height": 1599,
+          "bytes": 400304
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-006_back.jpeg",
+          "original_name": "k (1).jpeg",
+          "width": 1310,
+          "height": 1598,
+          "bytes": 276987
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-007",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "l",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-007_front.jpeg",
+          "original_name": "l (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 201179
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-007_back.jpeg",
+          "original_name": "l (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 219333
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-008",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "m",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-008_front.jpeg",
+          "original_name": "m (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 228630
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-008_back.jpeg",
+          "original_name": "m (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 239378
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-009",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "n",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-009_front.jpeg",
+          "original_name": "n (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 259456
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-009_back.jpeg",
+          "original_name": "n (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 182260
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-010",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "o",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-010_front.jpeg",
+          "original_name": "o (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 264012
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-010_back.jpeg",
+          "original_name": "o (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 238661
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-011",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "p",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-kids/ZHS-KID-011_front.jpeg",
+          "original_name": "p (2).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 255890
+        },
+        {
+          "view": "back",
+          "file": "denim-kids/ZHS-KID-011_back.jpeg",
+          "original_name": "p (1).jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 287945
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-012",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "dungarees",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-012_main.jpeg",
+          "original_name": "dungarees.jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 241146
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-013",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "jacket-kids1",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-013_main.png",
+          "original_name": "jacket-kids1.png",
+          "width": 562,
+          "height": 477,
+          "bytes": 431510
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-014",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "kid pant basic",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-014_main.png",
+          "original_name": "kid pant basic.png",
+          "width": 449,
+          "height": 546,
+          "bytes": 544891
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-015",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "kids cargo",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-015_main.png",
+          "original_name": "kids cargo.png",
+          "width": 388,
+          "height": 596,
+          "bytes": 257079
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-016",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "kids-screenprit",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-016_main.png",
+          "original_name": "kids-screenprit.png",
+          "width": 458,
+          "height": 634,
+          "bytes": 407427
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-017",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": "knitted denim",
+      "legacy_group_id": null,
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-017_main.jpg",
+          "original_name": "knitted denim.jpg",
+          "width": 456,
+          "height": 579,
+          "bytes": 86820
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-018",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "q",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-018_main.jpeg",
+          "original_name": "q.jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 175962
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-019",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "r",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-019_main.jpeg",
+          "original_name": "r.jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 208038
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-020",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "s",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-020_main.jpeg",
+          "original_name": "s.jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 178100
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-KID-021",
+      "category": "KID",
+      "source_folder": "denim-kids",
+      "legacy_code": null,
+      "legacy_label": null,
+      "legacy_group_id": "t",
+      "audience": "kids",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-kids/ZHS-KID-021_main.jpeg",
+          "original_name": "t.jpeg",
+          "width": 1200,
+          "height": 1600,
+          "bytes": 134329
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-001",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 1622",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-jackets/ZHS-JKT-001_front.png",
+          "original_name": "MN 1622 FRONT.png",
+          "width": 590,
+          "height": 285,
+          "bytes": 203159
+        },
+        {
+          "view": "back",
+          "file": "denim-jackets/ZHS-JKT-001_back.png",
+          "original_name": "MN 1622 BACK.png",
+          "width": 595,
+          "height": 257,
+          "bytes": 179677
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-002",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 1623",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "front",
+          "file": "denim-jackets/ZHS-JKT-002_front.png",
+          "original_name": "MN 1623 FRONT.png",
+          "width": 666,
+          "height": 285,
+          "bytes": 253941
+        },
+        {
+          "view": "back",
+          "file": "denim-jackets/ZHS-JKT-002_back.png",
+          "original_name": "MN 1623 BACK.png",
+          "width": 608,
+          "height": 276,
+          "bytes": 211082
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-003",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 1624",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "set",
+          "file": "denim-jackets/ZHS-JKT-003_set.png",
+          "original_name": "MN 1624 SET.png",
+          "width": 560,
+          "height": 424,
+          "bytes": 442202
+        }
+      ],
+      "duplicate_images": [],
+      "note": "MN 1624 is a pants+jacket set; the same set photo exists in both denim-pants and denim-jackets."
+    },
+    {
+      "sku": "ZHS-JKT-004",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3305",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-004_main.jpg",
+          "original_name": "MN 3305.jpg",
+          "width": 348,
+          "height": 430,
+          "bytes": 38552
+        }
+      ],
+      "duplicate_images": [],
+      "note": "Two different jackets share the legacy code MN 3305 (the .jpg and the .png are different washes)."
+    },
+    {
+      "sku": "ZHS-JKT-005",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3305",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-005_main.png",
+          "original_name": "MN 3305.png",
+          "width": 367,
+          "height": 444,
+          "bytes": 287811
+        }
+      ],
+      "duplicate_images": [],
+      "note": "Two different jackets share the legacy code MN 3305 (the .jpg and the .png are different washes)."
+    },
+    {
+      "sku": "ZHS-JKT-006",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3307",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-006_main.jpg",
+          "original_name": "MN 3307.jpg",
+          "width": 400,
+          "height": 464,
+          "bytes": 36676
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-007",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3308",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-007_main.png",
+          "original_name": "MN 3308.png",
+          "width": 397,
+          "height": 555,
+          "bytes": 250187
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-008",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3309",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-008_main.png",
+          "original_name": "MN 3309.png",
+          "width": 331,
+          "height": 464,
+          "bytes": 266766
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-009",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": "MN 3310",
+      "legacy_label": null,
+      "legacy_group_id": null,
+      "audience": null,
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-009_main.png",
+          "original_name": "MN 3310.png",
+          "width": 330,
+          "height": 467,
+          "bytes": 284709
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-010",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "ladies jacket",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-010_main.png",
+          "original_name": "ladies jacket.png",
+          "width": 444,
+          "height": 485,
+          "bytes": 375229
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-011",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "ladies zipper",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-011_main.png",
+          "original_name": "ladies zipper.png",
+          "width": 453,
+          "height": 603,
+          "bytes": 268981
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-012",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "ladies-self-button",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-012_main.png",
+          "original_name": "ladies-self-button.png",
+          "width": 622,
+          "height": 547,
+          "bytes": 906605
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-013",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "ladies-studes",
+      "legacy_group_id": null,
+      "audience": "women",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-013_main.png",
+          "original_name": "ladies-studes.png",
+          "width": 621,
+          "height": 576,
+          "bytes": 754628
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-014",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "mens-aplique",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-014_main.png",
+          "original_name": "mens-aplique.png",
+          "width": 636,
+          "height": 477,
+          "bytes": 799325
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-015",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "mens-aplizue",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-015_main.png",
+          "original_name": "mens-aplizue.png",
+          "width": 676,
+          "height": 507,
+          "bytes": 875721
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-016",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "mens-jacket",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-016_main.png",
+          "original_name": "mens-jacket.png",
+          "width": 680,
+          "height": 599,
+          "bytes": 1042630
+        }
+      ],
+      "duplicate_images": []
+    },
+    {
+      "sku": "ZHS-JKT-017",
+      "category": "JKT",
+      "source_folder": "denim-jackets",
+      "legacy_code": null,
+      "legacy_label": "mens-twill",
+      "legacy_group_id": null,
+      "audience": "men",
+      "images": [
+        {
+          "view": "main",
+          "file": "denim-jackets/ZHS-JKT-017_main.png",
+          "original_name": "mens-twill.png",
+          "width": 665,
+          "height": 582,
+          "bytes": 890964
+        }
+      ],
+      "duplicate_images": []
+    }
+  ]
+}

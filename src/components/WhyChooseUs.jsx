@@ -2,56 +2,65 @@ const expertise = [
   {
     number: "01",
     title: "Knitted Garments",
+    query: "knitwear sweaters folded stack",
     image:
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "02",
     title: "Woven Garments",
+    query: "woven shirts fabric rolls",
     image:
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1558171813-4c088753af8f?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "03",
     title: "Coordinated Sets",
+    query: "matching two piece set clothing rack",
     image:
       "https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "04",
     title: "Basic Apparel Programs",
+    query: "plain t-shirts folded basics",
     image:
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "05",
     title: "Value-Added Garments",
+    query: "embroidery garment detail",
     image:
-      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "06",
     title: "Washed Garments",
+    query: "washed denim jeans stack",
     image:
       "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "07",
     title: "Low and High MOQ Programs",
+    query: "garment factory production line",
     image:
-      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "08",
     title: "Factory Sourcing & Vendor Management",
+    query: "textile factory fabric rolls warehouse",
     image:
-      "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=900&q=85",
   },
   {
     number: "09",
     title: "Quality Control & Compliance Monitoring",
+    query: "fabric inspection quality control",
     image:
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1584030373081-f37b7bb4fa8e?auto=format&fit=crop&w=900&q=85",
   },
 ];
 

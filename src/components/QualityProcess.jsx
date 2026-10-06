@@ -4,40 +4,35 @@ const qualitySteps = [
     title: "Pre Production Check (PPC)",
     description:
       "Risk Are Reduced By Checking Material Components, Accessories/User Manuals Etc. At This Stage Itself.",
-    image:
-      "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1000&q=85",
+    image: "/service/ppc.jfif",
   },
   {
     number: "02",
     title: "Initial Production Check (IPC)",
     description:
       "First Finished Products Are Checked Against Buyer's Specification And Prototype Sample. Deviations Are Identified And Brought Out For Correction.",
-    image:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1000&q=85",
+    image: "/service/ipc.jpg",
   },
   {
     number: "03",
     title: "During Production Check (DUPRO)",
     description:
       "Inspection During Production Is Carried Out To Check And Verify That Initial Discrepancies Have Been Rectified And To Ensure The Average Quality Standards Of Production Runs.",
-    image:
-      "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=85",
+    image: "/service/dupro.webp",
   },
   {
     number: "04",
     title: "Final Random Inspection (FRI)",
     description:
       "Final Random Inspection Is Carried Out When The Total Consignment Is Packed And Ready For Shipment. It Is Performed According To The International Inspection Standards.",
-    image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1000&q=85",
+    image: "/service/fri.webp",
   },
   {
     number: "05",
     title: "Documentation & Shipping",
     description:
       "Our Exports Department Checks All Shipping Documents As Per Buyer Instructions & Ensure Dispatch Of Documentation As Per Dispatch Instruction Provided By Buyers.",
-    image:
-      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1000&q=85",
+    image: "/service/das.jpg",
   },
 ];
 
@@ -80,6 +75,7 @@ const QualityProcess = () => {
                 <img
                   src={step.image}
                   alt={step.title}
+                  loading="lazy"
                   className="h-full w-full object-cover"
                 />
 
